@@ -15,20 +15,12 @@ nav{
     border: 2px solid rgb(18, 75, 245);
     text-decoration: none;
     text-align: center;
-    text-decoration: none;
-    text-transform: uppercase;
-    text-decoration: solid;
-    text-align: center;
-    text-decoration: none;
-    text-transform: uppercase;
-    text-decoration: solid;
-    
+   
 
 }
 nav ul{
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+
     display: flex;
     justify-content: center;
     align-items: center;
@@ -36,18 +28,12 @@ nav ul{
     gap: 20px;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
-    text-transform: uppercase;
-    
+    font-weight:lighter;
+    text-transform: lowercase;
     margin: 20px;             
     transition: 0.3s;
-   
-    text-decoration: none;
     text-align: center;
     text-decoration: none;
-    text-transform: uppercase;
-    text-decoration: solid;
-
 }
 nav ul li{
 
