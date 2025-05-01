@@ -38,8 +38,8 @@ nav ul{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-transform: uppercase;
-
-    margin: 20px;  
+    
+    margin: 20px;             
     transition: 0.3s;
    
     text-decoration: none;
@@ -48,6 +48,19 @@ nav ul{
     text-transform: uppercase;
     text-decoration: solid;
 
+}
+nav ul li{
+
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(18, 75, 245);
+    text-decoration: none;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-decoration: solid;
+    
 }
 h1 {
     color:rgb(18, 75, 245);
